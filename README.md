@@ -123,3 +123,5 @@ Always check links.
 
 Finding active darknet sites requires vigilance. Prioritize security, verify every link, and be aware that participation in these markets may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
+
+Update:  07 July
